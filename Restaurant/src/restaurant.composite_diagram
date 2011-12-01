@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<notation:Diagram xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.2/notation" xmlns:sca="http://www.osoa.org/xmlns/sca/1.0" xmi:id="_bxMyMRNhEeGFk6Geh7b0Pg" type="Sca" name="restaurant.composite_diagram" measurementUnit="Pixel">
+  <children xmi:type="notation:Node" xmi:id="_cIOyIBNhEeGFk6Geh7b0Pg" type="2001">
+    <children xmi:type="notation:Node" xmi:id="_cIQnUBNhEeGFk6Geh7b0Pg" type="5008"/>
+    <children xmi:type="notation:Node" xmi:id="_cIScgBNhEeGFk6Geh7b0Pg" type="7001">
+      <styles xmi:type="notation:SortingStyle" xmi:id="_cIScgRNhEeGFk6Geh7b0Pg"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_cIScghNhEeGFk6Geh7b0Pg"/>
+    </children>
+    <children xmi:type="notation:Node" xmi:id="_cITqoBNhEeGFk6Geh7b0Pg" type="7002">
+      <styles xmi:type="notation:SortingStyle" xmi:id="_cITqoRNhEeGFk6Geh7b0Pg"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_cITqohNhEeGFk6Geh7b0Pg"/>
+    </children>
+    <children xmi:type="notation:Node" xmi:id="_cIURsBNhEeGFk6Geh7b0Pg" type="7003">
+      <styles xmi:type="notation:SortingStyle" xmi:id="_cIURsRNhEeGFk6Geh7b0Pg"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_cIURshNhEeGFk6Geh7b0Pg"/>
+    </children>
+    <children xmi:type="notation:Node" xmi:id="_cIU4wBNhEeGFk6Geh7b0Pg" type="7004">
+      <children xmi:type="notation:Node" xmi:id="_z4qhcBNhEeGFk6Geh7b0Pg" type="3012">
+        <children xmi:type="notation:Node" xmi:id="_z4rIgBNhEeGFk6Geh7b0Pg" type="5007"/>
+        <children xmi:type="notation:Node" xmi:id="_z4rvkBNhEeGFk6Geh7b0Pg" type="7009">
+          <children xmi:type="notation:Node" xmi:id="_xkfNcBNjEeGFk6Geh7b0Pg" type="3013">
+            <children xmi:type="notation:Node" xmi:id="_xkf0gBNjEeGFk6Geh7b0Pg" type="5004"/>
+            <children xmi:type="notation:Node" xmi:id="_xkf0gRNjEeGFk6Geh7b0Pg" type="7013">
+              <children xmi:type="notation:Node" xmi:id="_IpnEABNmEeGFk6Geh7b0Pg" type="3014">
+                <styles xmi:type="notation:ShapeStyle" xmi:id="_IpnEARNmEeGFk6Geh7b0Pg" fontName="Segoe UI"/>
+                <element xmi:type="sca:JavaInterface" href="restaurant.composite#//@composite/@component.0/@service.0/@interfaceGroup.0"/>
+                <layoutConstraint xmi:type="notation:Bounds" xmi:id="_IpnEAhNmEeGFk6Geh7b0Pg"/>
+              </children>
+              <styles xmi:type="notation:SortingStyle" xmi:id="_xkf0ghNjEeGFk6Geh7b0Pg"/>
+              <styles xmi:type="notation:FilteringStyle" xmi:id="_xkf0gxNjEeGFk6Geh7b0Pg"/>
+            </children>
+            <children xmi:type="notation:Node" xmi:id="_xkf0hBNjEeGFk6Geh7b0Pg" type="7014">
+              <styles xmi:type="notation:SortingStyle" xmi:id="_xkf0hRNjEeGFk6Geh7b0Pg"/>
+              <styles xmi:type="notation:FilteringStyle" xmi:id="_xkf0hhNjEeGFk6Geh7b0Pg"/>
+            </children>
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_xkfNcRNjEeGFk6Geh7b0Pg" fontName="Segoe UI"/>
+            <element xmi:type="sca:ComponentService" href="restaurant.composite#RestaurantServiceComponent/RestaurantService"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_xkfNchNjEeGFk6Geh7b0Pg"/>
+          </children>
+          <styles xmi:type="notation:SortingStyle" xmi:id="_z4rvkRNhEeGFk6Geh7b0Pg"/>
+          <styles xmi:type="notation:FilteringStyle" xmi:id="_z4rvkhNhEeGFk6Geh7b0Pg"/>
+        </children>
+        <children xmi:type="notation:Node" xmi:id="_z4sWoBNhEeGFk6Geh7b0Pg" type="7010">
+          <children xmi:type="notation:Node" xmi:id="_Jb0kEBNmEeGFk6Geh7b0Pg" type="3024">
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_Jb0kERNmEeGFk6Geh7b0Pg" fontName="Segoe UI"/>
+            <element xmi:type="sca:JavaImplementation" href="restaurant.composite#//@composite/@component.0/@implementationGroup.0"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Jb0kEhNmEeGFk6Geh7b0Pg"/>
+          </children>
+          <styles xmi:type="notation:SortingStyle" xmi:id="_z4sWoRNhEeGFk6Geh7b0Pg"/>
+          <styles xmi:type="notation:FilteringStyle" xmi:id="_z4sWohNhEeGFk6Geh7b0Pg"/>
+        </children>
+        <children xmi:type="notation:Node" xmi:id="_z4sWoxNhEeGFk6Geh7b0Pg" type="7011">
+          <children xmi:type="notation:Node" xmi:id="_Z-sdUBNiEeGFk6Geh7b0Pg" type="3018">
+            <children xmi:type="notation:Node" xmi:id="_Z-tEYBNiEeGFk6Geh7b0Pg" type="5005"/>
+            <children xmi:type="notation:Node" xmi:id="_Z-trcBNiEeGFk6Geh7b0Pg" type="7015">
+              <styles xmi:type="notation:SortingStyle" xmi:id="_Z-trcRNiEeGFk6Geh7b0Pg"/>
+              <styles xmi:type="notation:FilteringStyle" xmi:id="_Z-trchNiEeGFk6Geh7b0Pg"/>
+            </children>
+            <children xmi:type="notation:Node" xmi:id="_Z-uSgBNiEeGFk6Geh7b0Pg" type="7016">
+              <styles xmi:type="notation:SortingStyle" xmi:id="_Z-uSgRNiEeGFk6Geh7b0Pg"/>
+              <styles xmi:type="notation:FilteringStyle" xmi:id="_Z-uSghNiEeGFk6Geh7b0Pg"/>
+            </children>
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_Z-sdURNiEeGFk6Geh7b0Pg" fontName="Segoe UI"/>
+            <element xmi:type="sca:ComponentReference" href="restaurant.composite#RestaurantServiceComponent/billService"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Z-sdUhNiEeGFk6Geh7b0Pg"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_eAp24BNiEeGFk6Geh7b0Pg" type="3018">
+            <children xmi:type="notation:Node" xmi:id="_eAqd8BNiEeGFk6Geh7b0Pg" type="5005"/>
+            <children xmi:type="notation:Node" xmi:id="_eAqd8RNiEeGFk6Geh7b0Pg" type="7015">
+              <styles xmi:type="notation:SortingStyle" xmi:id="_eAqd8hNiEeGFk6Geh7b0Pg"/>
+              <styles xmi:type="notation:FilteringStyle" xmi:id="_eAqd8xNiEeGFk6Geh7b0Pg"/>
+            </children>
+            <children xmi:type="notation:Node" xmi:id="_eAqd9BNiEeGFk6Geh7b0Pg" type="7016">
+              <styles xmi:type="notation:SortingStyle" xmi:id="_eAqd9RNiEeGFk6Geh7b0Pg"/>
+              <styles xmi:type="notation:FilteringStyle" xmi:id="_eAqd9hNiEeGFk6Geh7b0Pg"/>
+            </children>
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_eAp24RNiEeGFk6Geh7b0Pg" fontName="Segoe UI"/>
+            <element xmi:type="sca:ComponentReference" href="restaurant.composite#RestaurantServiceComponent/menuService"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_eAp24hNiEeGFk6Geh7b0Pg"/>
+          </children>
+          <styles xmi:type="notation:SortingStyle" xmi:id="_z4sWpBNhEeGFk6Geh7b0Pg"/>
+          <styles xmi:type="notation:FilteringStyle" xmi:id="_z4sWpRNhEeGFk6Geh7b0Pg"/>
+        </children>
+        <children xmi:type="notation:Node" xmi:id="_z4s9sBNhEeGFk6Geh7b0Pg" type="7012">
+          <styles xmi:type="notation:SortingStyle" xmi:id="_z4s9sRNhEeGFk6Geh7b0Pg"/>
+          <styles xmi:type="notation:FilteringStyle" xmi:id="_z4s9shNhEeGFk6Geh7b0Pg"/>
+        </children>
+        <styles xmi:type="notation:ShapeStyle" xmi:id="_z4qhcRNhEeGFk6Geh7b0Pg" fontName="Segoe UI"/>
+        <element xmi:type="sca:Component" href="restaurant.composite#//@composite/@component.0"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_z4qhchNhEeGFk6Geh7b0Pg" x="30" y="5"/>
+      </children>
+      <children xmi:type="notation:Node" xmi:id="_4_l_ABNhEeGFk6Geh7b0Pg" type="3012">
+        <children xmi:type="notation:Node" xmi:id="_4_mmEBNhEeGFk6Geh7b0Pg" type="5007"/>
+        <children xmi:type="notation:Node" xmi:id="_4_mmERNhEeGFk6Geh7b0Pg" type="7009">
+          <children xmi:type="notation:Node" xmi:id="_xkktABNjEeGFk6Geh7b0Pg" type="3013">
+            <children xmi:type="notation:Node" xmi:id="_xkktAxNjEeGFk6Geh7b0Pg" type="5004"/>
+            <children xmi:type="notation:Node" xmi:id="_xklUEBNjEeGFk6Geh7b0Pg" type="7013">
+              <children xmi:type="notation:Node" xmi:id="_TKtrQBNmEeGFk6Geh7b0Pg" type="3014">
+                <styles xmi:type="notation:ShapeStyle" xmi:id="_TKtrQRNmEeGFk6Geh7b0Pg" fontName="Segoe UI"/>
+                <element xmi:type="sca:JavaInterface" href="restaurant.composite#//@composite/@component.1/@service.0/@interfaceGroup.0"/>
+                <layoutConstraint xmi:type="notation:Bounds" xmi:id="_TKtrQhNmEeGFk6Geh7b0Pg"/>
+              </children>
+              <styles xmi:type="notation:SortingStyle" xmi:id="_xklUERNjEeGFk6Geh7b0Pg"/>
+              <styles xmi:type="notation:FilteringStyle" xmi:id="_xklUEhNjEeGFk6Geh7b0Pg"/>
+            </children>
+            <children xmi:type="notation:Node" xmi:id="_xklUExNjEeGFk6Geh7b0Pg" type="7014">
+              <styles xmi:type="notation:SortingStyle" xmi:id="_xklUFBNjEeGFk6Geh7b0Pg"/>
+              <styles xmi:type="notation:FilteringStyle" xmi:id="_xklUFRNjEeGFk6Geh7b0Pg"/>
+            </children>
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_xkktARNjEeGFk6Geh7b0Pg" fontName="Segoe UI"/>
+            <element xmi:type="sca:ComponentService" href="restaurant.composite#MenuServiceComponent/MenuService"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_xkktAhNjEeGFk6Geh7b0Pg"/>
+          </children>
+          <styles xmi:type="notation:SortingStyle" xmi:id="_4_mmEhNhEeGFk6Geh7b0Pg"/>
+          <styles xmi:type="notation:FilteringStyle" xmi:id="_4_mmExNhEeGFk6Geh7b0Pg"/>
+        </children>
+        <children xmi:type="notation:Node" xmi:id="_4_nNIBNhEeGFk6Geh7b0Pg" type="7010">
+          <children xmi:type="notation:Node" xmi:id="_TxohUBNmEeGFk6Geh7b0Pg" type="3024">
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_TxohURNmEeGFk6Geh7b0Pg" fontName="Segoe UI"/>
+            <element xmi:type="sca:JavaImplementation" href="restaurant.composite#//@composite/@component.1/@implementationGroup.0"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_TxohUhNmEeGFk6Geh7b0Pg"/>
+          </children>
+          <styles xmi:type="notation:SortingStyle" xmi:id="_4_nNIRNhEeGFk6Geh7b0Pg"/>
+          <styles xmi:type="notation:FilteringStyle" xmi:id="_4_nNIhNhEeGFk6Geh7b0Pg"/>
+        </children>
+        <children xmi:type="notation:Node" xmi:id="_4_nNIxNhEeGFk6Geh7b0Pg" type="7011">
+          <styles xmi:type="notation:SortingStyle" xmi:id="_4_nNJBNhEeGFk6Geh7b0Pg"/>
+          <styles xmi:type="notation:FilteringStyle" xmi:id="_4_nNJRNhEeGFk6Geh7b0Pg"/>
+        </children>
+        <children xmi:type="notation:Node" xmi:id="_4_nNJhNhEeGFk6Geh7b0Pg" type="7012">
+          <styles xmi:type="notation:SortingStyle" xmi:id="_4_n0MBNhEeGFk6Geh7b0Pg"/>
+          <styles xmi:type="notation:FilteringStyle" xmi:id="_4_n0MRNhEeGFk6Geh7b0Pg"/>
+        </children>
+        <styles xmi:type="notation:ShapeStyle" xmi:id="_4_l_ARNhEeGFk6Geh7b0Pg" fontName="Segoe UI"/>
+        <element xmi:type="sca:Component" href="restaurant.composite#//@composite/@component.1"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_4_l_AhNhEeGFk6Geh7b0Pg" x="245" y="155"/>
+      </children>
+      <children xmi:type="notation:Node" xmi:id="_825nwBNhEeGFk6Geh7b0Pg" type="3012">
+        <children xmi:type="notation:Node" xmi:id="_826O0BNhEeGFk6Geh7b0Pg" type="5007"/>
+        <children xmi:type="notation:Node" xmi:id="_826O0RNhEeGFk6Geh7b0Pg" type="7009">
+          <children xmi:type="notation:Node" xmi:id="_TWJcABNiEeGFk6Geh7b0Pg" type="3013">
+            <children xmi:type="notation:Node" xmi:id="_TWJcAxNiEeGFk6Geh7b0Pg" type="5004"/>
+            <children xmi:type="notation:Node" xmi:id="_TWJcBBNiEeGFk6Geh7b0Pg" type="7013">
+              <children xmi:type="notation:Node" xmi:id="_Lh3DgBNmEeGFk6Geh7b0Pg" type="3014">
+                <styles xmi:type="notation:ShapeStyle" xmi:id="_Lh3DgRNmEeGFk6Geh7b0Pg" fontName="Segoe UI"/>
+                <element xmi:type="sca:JavaInterface" href="restaurant.composite#//@composite/@component.2/@service.0/@interfaceGroup.0"/>
+                <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Lh3DghNmEeGFk6Geh7b0Pg"/>
+              </children>
+              <styles xmi:type="notation:SortingStyle" xmi:id="_TWJcBRNiEeGFk6Geh7b0Pg"/>
+              <styles xmi:type="notation:FilteringStyle" xmi:id="_TWJcBhNiEeGFk6Geh7b0Pg"/>
+            </children>
+            <children xmi:type="notation:Node" xmi:id="_TWKDEBNiEeGFk6Geh7b0Pg" type="7014">
+              <styles xmi:type="notation:SortingStyle" xmi:id="_TWKDERNiEeGFk6Geh7b0Pg"/>
+              <styles xmi:type="notation:FilteringStyle" xmi:id="_TWKDEhNiEeGFk6Geh7b0Pg"/>
+            </children>
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_TWJcARNiEeGFk6Geh7b0Pg" fontName="Segoe UI"/>
+            <element xmi:type="sca:ComponentService" href="restaurant.composite#BillServiceComponent/BillService"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_TWJcAhNiEeGFk6Geh7b0Pg"/>
+          </children>
+          <styles xmi:type="notation:SortingStyle" xmi:id="_826O0hNhEeGFk6Geh7b0Pg"/>
+          <styles xmi:type="notation:FilteringStyle" xmi:id="_826O0xNhEeGFk6Geh7b0Pg"/>
+        </children>
+        <children xmi:type="notation:Node" xmi:id="_826O1BNhEeGFk6Geh7b0Pg" type="7010">
+          <children xmi:type="notation:Node" xmi:id="_MJSP4BNmEeGFk6Geh7b0Pg" type="3024">
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_MJSP4RNmEeGFk6Geh7b0Pg" fontName="Segoe UI"/>
+            <element xmi:type="sca:JavaImplementation" href="restaurant.composite#//@composite/@component.2/@implementationGroup.0"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_MJSP4hNmEeGFk6Geh7b0Pg"/>
+          </children>
+          <styles xmi:type="notation:SortingStyle" xmi:id="_826O1RNhEeGFk6Geh7b0Pg"/>
+          <styles xmi:type="notation:FilteringStyle" xmi:id="_826O1hNhEeGFk6Geh7b0Pg"/>
+        </children>
+        <children xmi:type="notation:Node" xmi:id="_82614BNhEeGFk6Geh7b0Pg" type="7011">
+          <children xmi:type="notation:Node" xmi:id="_hpGkQBNiEeGFk6Geh7b0Pg" type="3018">
+            <children xmi:type="notation:Node" xmi:id="_hpHLUBNiEeGFk6Geh7b0Pg" type="5005"/>
+            <children xmi:type="notation:Node" xmi:id="_hpHLURNiEeGFk6Geh7b0Pg" type="7015">
+              <styles xmi:type="notation:SortingStyle" xmi:id="_hpHLUhNiEeGFk6Geh7b0Pg"/>
+              <styles xmi:type="notation:FilteringStyle" xmi:id="_hpHLUxNiEeGFk6Geh7b0Pg"/>
+            </children>
+            <children xmi:type="notation:Node" xmi:id="_hpHLVBNiEeGFk6Geh7b0Pg" type="7016">
+              <styles xmi:type="notation:SortingStyle" xmi:id="_hpHLVRNiEeGFk6Geh7b0Pg"/>
+              <styles xmi:type="notation:FilteringStyle" xmi:id="_hpHLVhNiEeGFk6Geh7b0Pg"/>
+            </children>
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_hpGkQRNiEeGFk6Geh7b0Pg" fontName="Segoe UI"/>
+            <element xmi:type="sca:ComponentReference" href="restaurant.composite#BillServiceComponent/vatService"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_hpGkQhNiEeGFk6Geh7b0Pg"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_i8uIQBNiEeGFk6Geh7b0Pg" type="3018">
+            <children xmi:type="notation:Node" xmi:id="_i8uvUBNiEeGFk6Geh7b0Pg" type="5005"/>
+            <children xmi:type="notation:Node" xmi:id="_i8uvURNiEeGFk6Geh7b0Pg" type="7015">
+              <styles xmi:type="notation:SortingStyle" xmi:id="_i8uvUhNiEeGFk6Geh7b0Pg"/>
+              <styles xmi:type="notation:FilteringStyle" xmi:id="_i8uvUxNiEeGFk6Geh7b0Pg"/>
+            </children>
+            <children xmi:type="notation:Node" xmi:id="_i8uvVBNiEeGFk6Geh7b0Pg" type="7016">
+              <styles xmi:type="notation:SortingStyle" xmi:id="_i8uvVRNiEeGFk6Geh7b0Pg"/>
+              <styles xmi:type="notation:FilteringStyle" xmi:id="_i8uvVhNiEeGFk6Geh7b0Pg"/>
+            </children>
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_i8uIQRNiEeGFk6Geh7b0Pg" fontName="Segoe UI"/>
+            <element xmi:type="sca:ComponentReference" href="restaurant.composite#BillServiceComponent/tipService"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_i8uIQhNiEeGFk6Geh7b0Pg"/>
+          </children>
+          <styles xmi:type="notation:SortingStyle" xmi:id="_82614RNhEeGFk6Geh7b0Pg"/>
+          <styles xmi:type="notation:FilteringStyle" xmi:id="_82614hNhEeGFk6Geh7b0Pg"/>
+        </children>
+        <children xmi:type="notation:Node" xmi:id="_82614xNhEeGFk6Geh7b0Pg" type="7012">
+          <styles xmi:type="notation:SortingStyle" xmi:id="_82615BNhEeGFk6Geh7b0Pg"/>
+          <styles xmi:type="notation:FilteringStyle" xmi:id="_82615RNhEeGFk6Geh7b0Pg"/>
+        </children>
+        <styles xmi:type="notation:ShapeStyle" xmi:id="_825nwRNhEeGFk6Geh7b0Pg" fontName="Segoe UI"/>
+        <element xmi:type="sca:Component" href="restaurant.composite#//@composite/@component.2"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_825nwhNhEeGFk6Geh7b0Pg" x="245" y="5"/>
+      </children>
+      <children xmi:type="notation:Node" xmi:id="_AvUDwBNiEeGFk6Geh7b0Pg" type="3012">
+        <children xmi:type="notation:Node" xmi:id="_AvUDwxNiEeGFk6Geh7b0Pg" type="5007"/>
+        <children xmi:type="notation:Node" xmi:id="_AvUDxBNiEeGFk6Geh7b0Pg" type="7009">
+          <children xmi:type="notation:Node" xmi:id="_Un1GUBNiEeGFk6Geh7b0Pg" type="3013">
+            <children xmi:type="notation:Node" xmi:id="_Un1tYBNiEeGFk6Geh7b0Pg" type="5004"/>
+            <children xmi:type="notation:Node" xmi:id="_Un1tYRNiEeGFk6Geh7b0Pg" type="7013">
+              <children xmi:type="notation:Node" xmi:id="_OPMMcBNmEeGFk6Geh7b0Pg" type="3014">
+                <styles xmi:type="notation:ShapeStyle" xmi:id="_OPMMcRNmEeGFk6Geh7b0Pg" fontName="Segoe UI"/>
+                <element xmi:type="sca:JavaInterface" href="restaurant.composite#//@composite/@component.3/@service.0/@interfaceGroup.0"/>
+                <layoutConstraint xmi:type="notation:Bounds" xmi:id="_OPMMchNmEeGFk6Geh7b0Pg"/>
+              </children>
+              <styles xmi:type="notation:SortingStyle" xmi:id="_Un1tYhNiEeGFk6Geh7b0Pg"/>
+              <styles xmi:type="notation:FilteringStyle" xmi:id="_Un1tYxNiEeGFk6Geh7b0Pg"/>
+            </children>
+            <children xmi:type="notation:Node" xmi:id="_Un1tZBNiEeGFk6Geh7b0Pg" type="7014">
+              <styles xmi:type="notation:SortingStyle" xmi:id="_Un1tZRNiEeGFk6Geh7b0Pg"/>
+              <styles xmi:type="notation:FilteringStyle" xmi:id="_Un1tZhNiEeGFk6Geh7b0Pg"/>
+            </children>
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_Un1GURNiEeGFk6Geh7b0Pg" fontName="Segoe UI"/>
+            <element xmi:type="sca:ComponentService" href="restaurant.composite#VatServiceComponent/VatService"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Un1GUhNiEeGFk6Geh7b0Pg"/>
+          </children>
+          <styles xmi:type="notation:SortingStyle" xmi:id="_AvUDxRNiEeGFk6Geh7b0Pg"/>
+          <styles xmi:type="notation:FilteringStyle" xmi:id="_AvUDxhNiEeGFk6Geh7b0Pg"/>
+        </children>
+        <children xmi:type="notation:Node" xmi:id="_AvUq0BNiEeGFk6Geh7b0Pg" type="7010">
+          <children xmi:type="notation:Node" xmi:id="_R_nxIBNmEeGFk6Geh7b0Pg" type="3024">
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_R_nxIRNmEeGFk6Geh7b0Pg" fontName="Segoe UI"/>
+            <element xmi:type="sca:JavaImplementation" href="restaurant.composite#//@composite/@component.3/@implementationGroup.0"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_R_nxIhNmEeGFk6Geh7b0Pg"/>
+          </children>
+          <styles xmi:type="notation:SortingStyle" xmi:id="_AvUq0RNiEeGFk6Geh7b0Pg"/>
+          <styles xmi:type="notation:FilteringStyle" xmi:id="_AvUq0hNiEeGFk6Geh7b0Pg"/>
+        </children>
+        <children xmi:type="notation:Node" xmi:id="_AvUq0xNiEeGFk6Geh7b0Pg" type="7011">
+          <styles xmi:type="notation:SortingStyle" xmi:id="_AvUq1BNiEeGFk6Geh7b0Pg"/>
+          <styles xmi:type="notation:FilteringStyle" xmi:id="_AvUq1RNiEeGFk6Geh7b0Pg"/>
+        </children>
+        <children xmi:type="notation:Node" xmi:id="_AvUq1hNiEeGFk6Geh7b0Pg" type="7012">
+          <styles xmi:type="notation:SortingStyle" xmi:id="_AvUq1xNiEeGFk6Geh7b0Pg"/>
+          <styles xmi:type="notation:FilteringStyle" xmi:id="_AvUq2BNiEeGFk6Geh7b0Pg"/>
+        </children>
+        <styles xmi:type="notation:ShapeStyle" xmi:id="_AvUDwRNiEeGFk6Geh7b0Pg" fontName="Segoe UI"/>
+        <element xmi:type="sca:Component" href="restaurant.composite#//@composite/@component.3"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_AvUDwhNiEeGFk6Geh7b0Pg" x="460" y="5"/>
+      </children>
+      <children xmi:type="notation:Node" xmi:id="_EDIk8BNiEeGFk6Geh7b0Pg" type="3012">
+        <children xmi:type="notation:Node" xmi:id="_EDJMARNiEeGFk6Geh7b0Pg" type="5007"/>
+        <children xmi:type="notation:Node" xmi:id="_EDJMAhNiEeGFk6Geh7b0Pg" type="7009">
+          <children xmi:type="notation:Node" xmi:id="_WS9LYBNiEeGFk6Geh7b0Pg" type="3013">
+            <children xmi:type="notation:Node" xmi:id="_WS9ycBNiEeGFk6Geh7b0Pg" type="5004"/>
+            <children xmi:type="notation:Node" xmi:id="_WS9ycRNiEeGFk6Geh7b0Pg" type="7013">
+              <children xmi:type="notation:Node" xmi:id="_WHgzkBNmEeGFk6Geh7b0Pg" type="3014">
+                <styles xmi:type="notation:ShapeStyle" xmi:id="_WHhaoBNmEeGFk6Geh7b0Pg" fontName="Segoe UI"/>
+                <element xmi:type="sca:JavaInterface" href="restaurant.composite#//@composite/@component.4/@service.0/@interfaceGroup.0"/>
+                <layoutConstraint xmi:type="notation:Bounds" xmi:id="_WHhaoRNmEeGFk6Geh7b0Pg"/>
+              </children>
+              <styles xmi:type="notation:SortingStyle" xmi:id="_WS9ychNiEeGFk6Geh7b0Pg"/>
+              <styles xmi:type="notation:FilteringStyle" xmi:id="_WS9ycxNiEeGFk6Geh7b0Pg"/>
+            </children>
+            <children xmi:type="notation:Node" xmi:id="_WS9ydBNiEeGFk6Geh7b0Pg" type="7014">
+              <styles xmi:type="notation:SortingStyle" xmi:id="_WS-ZgBNiEeGFk6Geh7b0Pg"/>
+              <styles xmi:type="notation:FilteringStyle" xmi:id="_WS-ZgRNiEeGFk6Geh7b0Pg"/>
+            </children>
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_WS9LYRNiEeGFk6Geh7b0Pg" fontName="Segoe UI"/>
+            <element xmi:type="sca:ComponentService" href="restaurant.composite#TipServiceComponent/TipService"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_WS9LYhNiEeGFk6Geh7b0Pg"/>
+          </children>
+          <styles xmi:type="notation:SortingStyle" xmi:id="_EDJMAxNiEeGFk6Geh7b0Pg"/>
+          <styles xmi:type="notation:FilteringStyle" xmi:id="_EDJMBBNiEeGFk6Geh7b0Pg"/>
+        </children>
+        <children xmi:type="notation:Node" xmi:id="_EDJzEBNiEeGFk6Geh7b0Pg" type="7010">
+          <children xmi:type="notation:Node" xmi:id="_YAg8kBNmEeGFk6Geh7b0Pg" type="3024">
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_YAg8kRNmEeGFk6Geh7b0Pg" fontName="Segoe UI"/>
+            <element xmi:type="sca:JavaImplementation" href="restaurant.composite#//@composite/@component.4/@implementationGroup.0"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_YAg8khNmEeGFk6Geh7b0Pg"/>
+          </children>
+          <styles xmi:type="notation:SortingStyle" xmi:id="_EDJzERNiEeGFk6Geh7b0Pg"/>
+          <styles xmi:type="notation:FilteringStyle" xmi:id="_EDJzEhNiEeGFk6Geh7b0Pg"/>
+        </children>
+        <children xmi:type="notation:Node" xmi:id="_EDJzExNiEeGFk6Geh7b0Pg" type="7011">
+          <styles xmi:type="notation:SortingStyle" xmi:id="_EDJzFBNiEeGFk6Geh7b0Pg"/>
+          <styles xmi:type="notation:FilteringStyle" xmi:id="_EDJzFRNiEeGFk6Geh7b0Pg"/>
+        </children>
+        <children xmi:type="notation:Node" xmi:id="_EDJzFhNiEeGFk6Geh7b0Pg" type="7012">
+          <children xmi:type="notation:Node" xmi:id="_qbo3QBNqEeGFk6Geh7b0Pg" type="3023">
+            <children xmi:type="notation:Node" xmi:id="_qbpeUBNqEeGFk6Geh7b0Pg" type="5006"/>
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_qbo3QRNqEeGFk6Geh7b0Pg" fontName="Shruti"/>
+            <element xmi:type="sca:PropertyValue" href="restaurant.composite#//@composite/@component.4/@property.0"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_qbo3QhNqEeGFk6Geh7b0Pg"/>
+          </children>
+          <styles xmi:type="notation:SortingStyle" xmi:id="_EDJzFxNiEeGFk6Geh7b0Pg"/>
+          <styles xmi:type="notation:FilteringStyle" xmi:id="_EDJzGBNiEeGFk6Geh7b0Pg"/>
+        </children>
+        <styles xmi:type="notation:ShapeStyle" xmi:id="_EDIk8RNiEeGFk6Geh7b0Pg" fontName="Segoe UI"/>
+        <element xmi:type="sca:Component" href="restaurant.composite#//@composite/@component.4"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_EDJMABNiEeGFk6Geh7b0Pg" x="460" y="155"/>
+      </children>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_cIU4wRNhEeGFk6Geh7b0Pg"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_cIU4whNhEeGFk6Geh7b0Pg"/>
+    </children>
+    <styles xmi:type="notation:ShapeStyle" xmi:id="_cIPZMBNhEeGFk6Geh7b0Pg" fontName="Segoe UI"/>
+    <element xmi:type="sca:Composite" href="restaurant.composite#//@composite"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_cIPZMRNhEeGFk6Geh7b0Pg" x="585" y="30" width="856" height="531"/>
+  </children>
+  <styles xmi:type="notation:DiagramStyle" xmi:id="_bxNZQBNhEeGFk6Geh7b0Pg"/>
+  <element xmi:type="sca:DocumentRoot" href="restaurant.composite#/"/>
+  <edges xmi:type="notation:Edge" xmi:id="_DUBmwBNjEeGFk6Geh7b0Pg" type="4003" source="_Z-sdUBNiEeGFk6Geh7b0Pg" target="_TWJcABNiEeGFk6Geh7b0Pg">
+    <styles xmi:type="notation:RoutingStyle" xmi:id="_DUBmwRNjEeGFk6Geh7b0Pg" routing="Rectilinear" smoothness="Normal"/>
+    <styles xmi:type="notation:FontStyle" xmi:id="_DUBmwhNjEeGFk6Geh7b0Pg" fontName="Segoe UI"/>
+    <element xmi:type="sca:Wire" href="restaurant.composite#//@composite/@wire.1"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_DUBmwxNjEeGFk6Geh7b0Pg" points="[20, 2, -63, 0]$[79, -6, -4, -8]"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_DUDb8BNjEeGFk6Geh7b0Pg" id="(0.35,0.2)"/>
+  </edges>
+  <edges xmi:type="notation:Edge" xmi:id="_EoJhEBNjEeGFk6Geh7b0Pg" type="4003" source="_hpGkQBNiEeGFk6Geh7b0Pg" target="_Un1GUBNiEeGFk6Geh7b0Pg">
+    <styles xmi:type="notation:RoutingStyle" xmi:id="_EoJhERNjEeGFk6Geh7b0Pg" routing="Rectilinear" smoothness="Normal"/>
+    <styles xmi:type="notation:FontStyle" xmi:id="_EoJhEhNjEeGFk6Geh7b0Pg" fontName="Segoe UI"/>
+    <element xmi:type="sca:Wire" href="restaurant.composite#//@composite/@wire.2"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_EoJhExNjEeGFk6Geh7b0Pg" points="[20, -1, -105, -6]$[131, 25, 6, 20]"/>
+  </edges>
+  <edges xmi:type="notation:Edge" xmi:id="_FYhOEBNjEeGFk6Geh7b0Pg" type="4003" source="_i8uIQBNiEeGFk6Geh7b0Pg" target="_WS9LYBNiEeGFk6Geh7b0Pg">
+    <styles xmi:type="notation:RoutingStyle" xmi:id="_FYhOERNjEeGFk6Geh7b0Pg" routing="Rectilinear" smoothness="Normal"/>
+    <styles xmi:type="notation:FontStyle" xmi:id="_FYhOEhNjEeGFk6Geh7b0Pg" fontName="Segoe UI"/>
+    <element xmi:type="sca:Wire" href="restaurant.composite#//@composite/@wire.3"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_FYhOExNjEeGFk6Geh7b0Pg" points="[15, 20, -111, -145]$[108, 145, -18, -20]"/>
+  </edges>
+  <edges xmi:type="notation:Edge" xmi:id="_JV8QcBNkEeGFk6Geh7b0Pg" type="4003" source="_eAp24BNiEeGFk6Geh7b0Pg" target="_xkktABNjEeGFk6Geh7b0Pg">
+    <styles xmi:type="notation:RoutingStyle" xmi:id="_JV8QcRNkEeGFk6Geh7b0Pg" routing="Rectilinear" smoothness="Normal"/>
+    <styles xmi:type="notation:FontStyle" xmi:id="_JV83gBNkEeGFk6Geh7b0Pg" fontName="Segoe UI"/>
+    <element xmi:type="sca:Wire" href="restaurant.composite#//@composite/@wire.4"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_JV83gRNkEeGFk6Geh7b0Pg" points="[10, 20, -72, -135]$[87, 188, 5, 33]"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_JV-ssBNkEeGFk6Geh7b0Pg" id="(0.45,0.175)"/>
+  </edges>
+</notation:Diagram>

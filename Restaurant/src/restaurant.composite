@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><sca:composite xmlns:sca="http://www.osoa.org/xmlns/sca/1.0" name="Restaurant" targetNamespace="http://eclipse.org/Restaurant/restaurant">
+  <sca:component name="RestaurantServiceComponent">
+    <sca:implementation.java class="restaurant.lib.RestaurantServiceImpl"/>
+    <sca:service name="RestaurantService">
+      <sca:interface.java interface="restaurant.api.RestaurantService"/>
+    </sca:service>
+    <sca:reference name="billService"/>
+    <sca:reference name="menuService"/>
+  </sca:component>
+  <sca:component name="MenuServiceComponent">
+    <sca:implementation.java class="restaurant.lib.MenuServiceImpl"/>
+    <sca:service name="MenuService">
+      <sca:interface.java interface="restaurant.api.MenuService"/>
+    </sca:service>
+  </sca:component>
+  <sca:component name="BillServiceComponent">
+    <sca:implementation.java class="restaurant.lib.BillServiceImpl"/>
+    <sca:service name="BillService">
+      <sca:interface.java interface="restaurant.api.BillService"/>
+    </sca:service>
+    <sca:reference name="vatService"/>
+    <sca:reference name="tipService"/>
+  </sca:component>
+  <sca:component name="VatServiceComponent">
+    <sca:implementation.java class="restaurant.lib.VatServiceImpl"/>
+    <sca:service name="VatService">
+      <sca:interface.java interface="restaurant.api.VatService"/>
+    </sca:service>
+  </sca:component>
+  <sca:component name="TipServiceComponent">
+    <sca:implementation.java class="restaurant.lib.TipServiceImpl"/>
+    <sca:service name="TipService">
+      <sca:interface.java interface="restaurant.api.TipService"/>
+    </sca:service>
+    <sca:property name="tipRate">3</sca:property>
+  </sca:component>
+  <sca:wire source="RestaurantServiceComponent/menuService" target="MenuServiceComponent/MenuService "/>
+  <sca:wire source="RestaurantServiceComponent/billService" target="BillServiceComponent/BillService"/>
+  <sca:wire source="BillServiceComponent/vatService" target="VatServiceComponent/VatService"/>
+  <sca:wire source="BillServiceComponent/tipService" target="TipServiceComponent/TipService"/>
+  <sca:wire source="RestaurantServiceComponent/menuService" target="MenuServiceComponent/MenuService"/>
+</sca:composite>
